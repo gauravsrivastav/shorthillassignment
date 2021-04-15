@@ -37,7 +37,7 @@ ansible -->  2.9.20
 
 **Note**: 
 
-**a.** To run this playbook, need to share to access ssh_public_key with new ec2 instances (open port 22)
+**a.** To run successfully this playbook: Need to access to new instance and you have to share ansible ssh_public_key with new ec2 instances (open port 22)
 **b.** add the host under group of host in /etc/ansible/hosts.  (Here i added under webservers)
 
 
