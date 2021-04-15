@@ -12,7 +12,7 @@ aws                 >= 2.1
 
 
 **Note**:  
-**a.** I had configureed aws{ #aws configure} ( to add Access Key and ID). Also may use under "provider" block 
+**a.** I had configured aws{ #aws configure} ( to add Access Key and ID). Also may use under "provider" block 
 
   **access_key = "XXXXXXXXXX"
 	secret_key = "XXXXXXXXXX+XXXX+XXXXX"**
